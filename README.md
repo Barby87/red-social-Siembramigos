@@ -1,5 +1,12 @@
 # Siembramigos
 
+Nuestra aplicación es una red social enfocada en el cuidado del medio ambiente, y está basada en la creciente necesidad que se ha generado en la sociedad para cuidar el planeta.
+
+![login](https://user-images.githubusercontent.com/39339093/47228123-d5c9da00-d39a-11e8-8c8a-1ed1137d976f.png)
+
+## Desarrollado para Laboratoria
+
+
 ## Definición del producto
 
 Nuestra aplicación es una red social enfocada en el cuidado del medio ambiente, y está basada en la creciente necesidad que se ha generado en la sociedad para cuidar el planeta.
